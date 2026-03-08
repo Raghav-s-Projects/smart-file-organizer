@@ -1,11 +1,12 @@
+
 # Smart File Organizer
 
 A Python script that automatically organizes files in a folder into categories.
 
 ## Features
-- Automatically sorts files
-- Supports images, documents, videos, audio
-- Creates folders automatically
+ Automatically sorts files
+ Supports images, documents, videos, audio
+ Creates folders automatically
 
 ## How to Run
 
@@ -18,3 +19,7 @@ Enter the folder path when prompted.
 Downloads/
 photo.png → Images/
 notes.pdf → Documents/
+
+# smart-file-organizer
+Automation tool built with Python that sorts files into categorized folders based on file extensions.
+
